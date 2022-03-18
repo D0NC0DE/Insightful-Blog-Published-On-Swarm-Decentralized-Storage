@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /careers/
+Disallow: /*?utm=*
+Host: https://pixelplex.io/
+Sitemap: https://pixelplex.io/sitemap.xml
