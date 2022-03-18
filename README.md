@@ -1,4 +1,4 @@
-# Insightful-Blog-Published-On-Swarm-Decentralized-Storage
+# Insightful Blog Published On Swarm Decentralized Storage
 
 Before anything, the web content are all from and the work of www.pixelplex.io .
 This is the blog part of the website that has been carefully written and corrected by me.
@@ -14,6 +14,7 @@ Or
   - and open on any browser.
 
 **HOW IT WORKS**
+
 You can also publish any existing blog by 
 - Getting ready the code(html,css,js). For me, all the css and js are inline and referenced to the sites file
 - Then publish to SWARM 
